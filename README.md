@@ -30,8 +30,11 @@ Married and father of two amazing kids.
 
 Household finance manager that started as a **Python + Streamlit project** and evolved into a full **PWA dashboard application**.
 
-Repo | Demo  
-[link] | [link]
+Repo 
+[[link](https://github.com/RomanBrocki/controle_contas_pwa)] 
+
+Demo
+[[link](https://romanbrocki.github.io/controle_contas_pwa/#/mes)]
 
 ---
 
@@ -41,8 +44,9 @@ Repo | Demo
 
 Tool that scrapes chapters from webnovels and compiles them into structured **eBooks**.
 
-Repo | Demo  
-[link] | [link]
+Repo
+[[link](https://github.com/RomanBrocki/ScrapStream)] 
+
 
 ---
 
@@ -55,8 +59,11 @@ Experiment combining **logic and LLMs** to generate an entire RPG setting with:
 - campaign book in PDF
 - supporting website
 
-Repo | Demo  
-[link] | [link]
+Repo
+[[link](https://github.com/RomanBrocki/SP-by-Night)] 
+
+Demo
+[[link](https://romanbrocki.github.io/SP-by-Night/book/index.html)]
 
 ---
 
@@ -66,8 +73,8 @@ Repo | Demo
 
 Local AI tool designed to **review and correct translated text artifacts**.
 
-Repo | Demo  
-[link] | [link]
+Repo
+[[link](https://github.com/RomanBrocki/editor_ia)] 
 
 ---
 
@@ -75,8 +82,15 @@ Repo | Demo
 
 Utility for restructuring and manipulating **PDF documents**.
 
-Repo | Demo  
-[link] | [link]
+Repo 
+[[link](https://github.com/RomanBrocki/PDF_Facil)]
+
+Repo of local version
+[[link](https://github.com/RomanBrocki/PDF_Facil_Desktop)]
+
+Demo
+[[link](https://pdf-facil.streamlit.app/)]
+
 
 ---
 
@@ -84,8 +98,11 @@ Repo | Demo
 
 Application for **tracking working hours and generating reports**.
 
-Repo | Demo  
-[link] | [link]
+Repo
+[[link](https://github.com/RomanBrocki/ponto-online-react)] 
+
+Demo
+[[link](https://romanbrocki.github.io/ponto-online-react/login)]
 
 ---
 
@@ -98,6 +115,22 @@ Some of my projects explore how **LLMs can augment creativity and productivity**
 - automation assisted by AI
 
 ---
+
+# 🎵 Creative AI Experiments
+
+I also experiment with **AI-assisted music and video production**.
+
+Using tools like **Suno AI** for music generation and video tools such as **Grok**, I write lyrics, define musical style, and edit multiple generated clips into complete music videos.
+
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdG2Ffm9WgArMKPKdYaLYnA)
+
+These projects explore how AI can augment creative workflows including:
+
+- AI-assisted songwriting
+- music style experimentation
+- generative video editing
+- combining multiple AI tools into a final creative production
+
 
 # 🧠 Tech Stack
 
