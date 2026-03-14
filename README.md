@@ -26,9 +26,15 @@ Married and father of two amazing kids.
 
 ## 💰 Finance
 
-### Personal Finance Dashboard
+### Personal Finance Control App
 
-Household finance manager that started as a **Python + Streamlit project** and evolved into a full **PWA dashboard application**.
+Household finance management application that started as a **Python + Streamlit project** and evolved into a full **Progressive Web App (PWA)** built with React, Tailwind and Supabase.
+
+The app manages monthly bills, tracks payments, generates formal PDF reports, and provides financial insights through an integrated **BI-style dashboard**.
+
+Designed to run entirely client-side on **Supabase free tier + GitHub Pages**, keeping the infrastructure simple while delivering reporting, analytics and PWA functionality.
+
+
 
 Repo 
 [[link](https://github.com/RomanBrocki/controle_contas_pwa)] 
@@ -42,7 +48,9 @@ Demo
 
 ### Web Novel Scraper
 
-Tool that scrapes chapters from webnovels and compiles them into structured **eBooks**.
+Automated pipeline that extracts web novel chapters and compiles them into structured **.docx eBooks**.
+
+Built with **Streamlit + Selenium (undetected_chromedriver)** to bypass protections such as Cloudflare. The scraper navigates chapter-by-chapter, applies custom text normalization rules, removes censorship artifacts, and generates a clean, formatted document ready for reading.
 
 Repo
 [[link](https://github.com/RomanBrocki/ScrapStream)] 
@@ -52,12 +60,17 @@ Repo
 
 ### Procedural RPG World Generator
 
-Experiment combining **logic and LLMs** to generate an entire RPG setting with:
+A large-scale experiment combining **logic, structured data, and LLMs** to generate a complete RPG campaign setting.
 
-- interconnected characters
-- relationship graphs
-- campaign book in PDF
-- supporting website
+The project includes:
+
+- **140+ NPCs** organized into factions and social divisions
+- a **relationship graph** connecting all characters
+- an **interactive city map** showing where each NPC resides
+- faction overlays and map filters
+- character sheets displayed dynamically in the interface
+- a **150-page campaign book** with lore, artwork and detailed character descriptions
+- a supporting **website with interactive exploration tools**
 
 Repo
 [[link](https://github.com/RomanBrocki/SP-by-Night)] 
@@ -71,7 +84,17 @@ Demo
 
 ### AI Translation Editor
 
-Local AI tool designed to **review and correct translated text artifacts**.
+Local AI tool designed to **revise and polish machine-translated webnovel chapters** while preserving tone, terminology, and narrative structure.
+
+Built as a modular pipeline using local LLMs (Hermes / OpenHermes variants) running on GPU. The system processes chapters in structured blocks and applies strict prompt control to ensure clarity improvements without altering meaning.
+
+Key features include:
+
+- block-based segmentation for context-aware revision
+- strict prompt structure to prevent hallucination or content changes
+- automatic cleanup of LLM artifacts
+- fallback handling for failed revisions
+- detailed logging and performance tracking
 
 Repo
 [[link](https://github.com/RomanBrocki/editor_ia)] 
@@ -80,7 +103,10 @@ Repo
 
 ### PDF Editing Tool
 
-Utility for restructuring and manipulating **PDF documents**.
+PDF processing application available as both a **Streamlit web tool** and a **local Python desktop application**.
+
+It supports merging, splitting, rotating, reordering, and compressing PDFs and images. The system uses a custom processing engine with adaptive compression heuristics and guard-rails that ensure the resulting file never exceeds the size of the original.
+
 
 Repo 
 [[link](https://github.com/RomanBrocki/PDF_Facil)]
