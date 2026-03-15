@@ -1,4 +1,4 @@
-🇺🇸 **English** | 🇧🇷 [Português](README.pt-BR.md)
+🇺🇸 **English** | 🇧🇷 [Português](https://github.com/RomanBrocki/RomanBrocki/blob/main/README.pt-BR.md)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Roman%20Wladyslaw%20Brocki%20Neto&fontSize=34&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20AI%20%7C%20Builder%20of%20Useful%20Tools&descAlignY=65" />
