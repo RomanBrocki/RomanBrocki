@@ -177,14 +177,6 @@ These projects explore how AI can augment creative workflows including:
 
 ---
 
-# 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=RomanBrocki&show_icons=true&theme=tokyonight)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanBrocki&layout=compact&theme=tokyonight)
-
----
-
 # 🔥 Activity Graph
 
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=RomanBrocki&theme=tokyo-night)
